@@ -1,6 +1,10 @@
-1.
+1.javac 파일이름.java
+javac Main.java
+
 2.객체지향프로그래밍 언어란 클래스를 선언해서 재사용이 가능하도록 해준다
 3.
 4. main함수라고 한다.
-5.
+5.public static void main(String[] args) {
+      // 프로그램 실행 코드
+  }
 6.Java virtual Machine이다

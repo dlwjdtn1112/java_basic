@@ -25,7 +25,7 @@ public class BestMovieModeling {
             for(int j = 1; j < 3;j++){
                 m1.setActor("dlwjdtn");
 
-                moviearray[i][j] = m1.getActor();
+               // moviearray[i][j] = m1.getActor();
 
 
 
